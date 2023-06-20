@@ -7,9 +7,9 @@ function Education() {
     {
       index: 1,
       education_logo_link: college_logo,
-      college_name: "D.Y. Patil College of Engineering",
-      college_degree_name: "B.E. in Information Technology",
-      education_spam: "2020-Present",
+      college_name: "Japan Advanced Institute of Science and Technology",
+      college_degree_name: "Bachelor of Computer Science (BCompSc)",
+      education_spam: "2018-2021",
       education_info: [
         {
           index: 1,
@@ -28,7 +28,7 @@ function Education() {
         },
       ],
       btn_name: "Visit Website",
-      btn_link: "https://dypcoeakurdi.collpoll.com/home",
+      btn_link: "#",
     },
   ];
   return (
